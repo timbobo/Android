@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alarm_alert_btn_red">#FE3824</color>
+    <color name="alarm_alert_btn_red_10">#19FE3824</color>
+    <color name="alarm_alert_btn_red_40">#66FE3824</color>
+
+    <color name="black">#000000</color>
+    <color name="black_10">#19000000</color>
+    <color name="black_12">#1f000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="black_26">#42000000</color>
+    <color name="black_37">#5E000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_53">#87000000</color>
+    <color name="black_54">#8a000000</color>
+    <color name="black_87">#de000000</color>
+    <color name="black_90">#E5000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_4">#0Affffff</color>
+    <color name="white_7">#12ffffff</color>
+    <color name="white_10">#19ffffff</color>
+    <color name="white_15">#26ffffff</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_28">#47ffffff</color>
+    <color name="white_30">#4Cffffff</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="white_60">#96ffffff</color>
+    <color name="white_75">#c0ffffff</color>
+    <color name="white_80">#c8ffffff</color>
+    <color name="white_69">#B0ffffff</color>
+</resources>
